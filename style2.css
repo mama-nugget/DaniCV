@@ -1,0 +1,18 @@
+html {
+  background-color: #FFEEEE;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 40px;
+  color: #9C0F48;
+  text-align: center;
+}
+ul {
+  color: #9C0F48;
+  font-family: Arial;
+  text-align: center;
+}
+form {
+  margin: auto;
+}

@@ -1,0 +1,40 @@
+@import style2.CSS;
+
+html {
+  background-color: #FFEEEE;
+  margin: auto;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: cursive;
+  color: #711A75;
+}
+
+a:hover {
+  border: 5px solid pink;
+  color: lightpink;
+  transition: all 0.3s ease;
+}
+
+a:link {
+  color: #9C0F48;
+}
+
+a:visited {
+  color: #9C0F48;
+}
+.contact {
+  border: 3px solid pink;
+}
+
+
+h3 {
+  font-size: 25;
+  color: #46244C;
+}
+
+.stars {
+  border: 1px solid;
+  border-radius: 20px;
+}
